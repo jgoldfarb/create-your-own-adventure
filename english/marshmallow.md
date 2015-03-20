@@ -161,3 +161,5 @@ Do you:
 [Escape and find a phone to call...](call-these-guys/calltheseguys.md)
 
 [Play some cricket](play-some-cricket/playsomecricket.md)
+
+[Go for a fast ride](fastride/fastride.md)
